@@ -50,7 +50,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1220?style=for-the-badge&logo=postgresql&logoColor=38BDF8)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-0B1220?style=for-the-badge&logo=mongodb&logoColor=A855F7)](https://www.mongodb.com/)
 
-### Rails / OYE Project Tools
+### Rails
 
 [![ActiveRecord](https://img.shields.io/badge/ActiveRecord-0B1220?style=for-the-badge&logo=rubyonrails&logoColor=38BDF8)](https://guides.rubyonrails.org/active_record_basics.html)
 [![ERB Views](https://img.shields.io/badge/ERB%20Views-0B1220?style=for-the-badge&logo=rubyonrails&logoColor=A855F7)](https://guides.rubyonrails.org/layouts_and_rendering.html)
